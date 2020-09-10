@@ -1,6 +1,6 @@
 <?php
 
-namespace MyNamespace\Block\CustomBlocks;
+namespace MyNamespace\Block;
 
 class CustomBlocks {
 	
