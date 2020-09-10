@@ -1,0 +1,18 @@
+{
+    "name": "tommyquissens/psalm-phtml-issue",
+    "type": "project",
+    "require-dev": {
+        "vimeo/psalm": "^3.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "Magento\\Framework\\": "lib\/internal\/Magento\/Framework\/",
+            "Magento\\Setup\\": "setup\/src\/Magento\/Setup\/",
+            "Magento\\": "app\/code\/Magento\/",
+            "Zend\\Mvc\\Controller\\": "setup\/src\/Zend\/Mvc\/Controller\/"
+        },
+        "psr-4": {
+            "MyNamespace\\Blocks\\":"src"
+        }
+    }
+}
