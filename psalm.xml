@@ -8,7 +8,6 @@
 >
     <projectFiles>
         <directory name="src" />
-        <file name="good.phtml" />
         <file name="bad.phtml" />
         <ignoreFiles>
             <directory name="vendor" />
